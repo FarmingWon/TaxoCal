@@ -1,5 +1,5 @@
 ---
-layout: TaxoCal
+layout: project
 title: TaxoCal/
 project: TaxoCal
 repo: datascience-labs/TaxoCal
